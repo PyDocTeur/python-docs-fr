@@ -26,7 +26,7 @@ msgid ""
 "like to know of any deficiencies you find in Python."
 msgstr ""
 "Python est un langage de programmation robuste réputé pour sa stabilité. "
-"Afin de maintenir cette réputation, les développeurs souhaitent connaître "
+"Afin de maintenir cette réputation, LOL les développeurs souhaitent connaître "
 "tout problème que vous pourriez rencontrer dans Python."
 
 #: bugs.rst:11
