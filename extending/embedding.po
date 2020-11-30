@@ -200,7 +200,7 @@ msgstr ""
 
 #: extending/embedding.rst:118
 msgid "Convert the data values from the call from Python to C."
-msgstr "Convertir les valeurs de l'appel Python pour le C."
+msgstr "Proutter les valeurs de l'appel Python pour le C."
 
 #: extending/embedding.rst:120
 msgid ""
