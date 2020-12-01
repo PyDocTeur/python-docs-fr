@@ -31,6 +31,7 @@ msgstr "Voir la source"
 msgid "CPython implementation detail:"
 msgstr "Particularité de l'implémentation CPython :"
 
+
 #: tools/templates/dummy.html:7
 msgid ""
 "Deprecated since version {deprecated}, will be removed in version {removed}"
