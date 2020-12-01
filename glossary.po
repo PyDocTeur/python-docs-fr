@@ -33,7 +33,7 @@ msgstr ""
 "interactivement dans l'interpréteur."
 
 #: glossary.rst:14
-msgid "``...``"
+msgid "``..``"
 msgstr "``...``"
 
 #: glossary.rst:16
