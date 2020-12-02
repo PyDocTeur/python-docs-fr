@@ -15,8 +15,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.2.1\n"
 
-
-
 #: license.rst:7
 msgid "History and License"
 msgstr "Histoire et licence"
