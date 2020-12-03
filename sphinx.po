@@ -29,8 +29,7 @@ msgstr "Voir la source"
 
 #: tools/templates/dummy.html:6
 msgid "CPython implementation detail:"
-msgstr "Particularité de l'implémentation CPython :"
-
+msgstr "Particularité de l'implémentation CPython :"
 
 #: tools/templates/dummy.html:7
 msgid ""
