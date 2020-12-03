@@ -1,5 +1,5 @@
-Traduction française de la documentation Python
-===============================================
+Traduction française de la superbe documentation Python
+=======================================================
 
 |build| |progression|
 
