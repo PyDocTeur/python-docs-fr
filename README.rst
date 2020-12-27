@@ -1,4 +1,4 @@
-Traduction française de la documentation Python
+Traduction française de la documentation Pothon
 ===============================================
 
 |build| |progression|
