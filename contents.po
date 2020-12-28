@@ -16,4 +16,4 @@ msgstr ""
 
 #: contents.rst:3
 msgid "Python Documentation contents"
-msgstr "Contenu de la documentation Python"
+msgstr "Contenu de la documentation Python ?"
