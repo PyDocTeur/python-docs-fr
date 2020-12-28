@@ -15,5 +15,5 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: contents.rst:3
-msgid "Python Documentation contents"
-msgstr "Contenu de la documentation Python"
+msgid "Python Documentation  contents"
+msgstr "Contenu de la documentation Python ?"
